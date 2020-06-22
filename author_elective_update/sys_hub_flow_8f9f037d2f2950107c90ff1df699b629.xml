@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="DELETE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>newidea</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>NewIdea</name>
+        <natlang/>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-22 22:20:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8f9f037d2f2950107c90ff1df699b629</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NewIdea</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_8f9f037d2f2950107c90ff1df699b629</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-22 22:20:14</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="DELETE" query="documentkey=8f9f037d2f2950107c90ff1df699b629"/>
+    <sys_variable_value action="DELETE" query="document_key=8f9f037d2f2950107c90ff1df699b629"/>
+    <sys_flow_cat_variable_model action="DELETE" query="id=8f9f037d2f2950107c90ff1df699b629^sys_idNOT IN1f9f037d2f2950107c90ff1df699b62b"/>
+    <sys_flow_cat_variable_model action="DELETE">
+        <id>8f9f037d2f2950107c90ff1df699b629</id>
+        <name>NewIdea</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-22 22:20:14</sys_created_on>
+        <sys_id>1f9f037d2f2950107c90ff1df699b62b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-22 22:20:14</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>1d03f0b6dbaa48504d2bac44d49619ba</instance_id>
+        <instance_name>dev98028</instance_name>
+        <name>sys_hub_flow_8f9f037d2f2950107c90ff1df699b629</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow"><sys_hub_flow action="INSERT_OR_UPDATE"><access>public</access><acls/><active>false</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><compiler_build/><copied_from/><copied_from_name/><description/><internal_name>newidea</internal_name><label_cache>[]</label_cache><latest_snapshot/><master_snapshot/><name>NewIdea</name><natlang/><outputs/><remote_trigger_id/><run_as>user</run_as><sc_callable>false</sc_callable><show_draft_actions>false</show_draft_actions><show_triggered_flows>false</show_triggered_flows><status>draft</status><sys_class_name>sys_hub_flow</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-22 22:20:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8f9f037d2f2950107c90ff1df699b629</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NewIdea</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_hub_flow_8f9f037d2f2950107c90ff1df699b629</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-22 22:20:14</sys_updated_on><type>flow</type></sys_hub_flow><sys_translated_text action="delete_multiple" query="documentkey=8f9f037d2f2950107c90ff1df699b629"/><sys_variable_value action="delete_multiple" query="document_key=8f9f037d2f2950107c90ff1df699b629"/><sys_flow_cat_variable_model action="delete_multiple" query="id=8f9f037d2f2950107c90ff1df699b629^sys_idNOT IN1f9f037d2f2950107c90ff1df699b62b"/><sys_flow_cat_variable_model action="INSERT_OR_UPDATE"><id>8f9f037d2f2950107c90ff1df699b629</id><name>NewIdea</name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-22 22:20:14</sys_created_on><sys_id>1f9f037d2f2950107c90ff1df699b62b</sys_id><sys_mod_count>0</sys_mod_count><sys_scope/><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-22 22:20:14</sys_updated_on></sys_flow_cat_variable_model></record_update>]]></payload>
+        <payload_hash>232184809</payload_hash>
+        <record_name>NewIdea</record_name>
+        <reverted_from/>
+        <source>80588bb52f2950107c90ff1df699b6c1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-22 22:20:14</sys_created_on>
+        <sys_id>1f9f037d2f2950107c90ff1df699b62f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172de1e1a070000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-22 22:20:14</sys_updated_on>
+        <type>Flow</type>
+        <update_guid>179f037d722950102e93009a87ad1d2f</update_guid>
+        <update_guid_history>179f037d722950102e93009a87ad1d2f:232184809</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-22 22:23:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_flow">sys_hub_flow</sys_db_object>
+        <sys_id>20038cddc92d4830b09a9a2c74d4f440</sys_id>
+        <sys_metadata>8f9f037d2f2950107c90ff1df699b629</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NewIdea</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_hub_flow_8f9f037d2f2950107c90ff1df699b629</sys_update_name>
+        <sys_update_version display_value="sys_hub_flow_8f9f037d2f2950107c90ff1df699b629">1f9f037d2f2950107c90ff1df699b62f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-22 22:23:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
